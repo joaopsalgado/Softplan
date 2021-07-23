@@ -32,7 +32,7 @@ namespace SoftplanDev.Controllers
         [Route("showmethecode")]
         public string GithubUrl()
         {
-          return "https://github.com/joaopsalgado";
+          return "https://github.com/joaopsalgado/Softplan";
         }
 
     }
