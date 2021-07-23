@@ -6,3 +6,5 @@
 
 ## Acessar a Url da API por exemplo:
    http://127.0.0.1:5000/api/calculadorTaxa/calculajuros?valorinicial=100&meses=5
+   http://127.0.0.1:5000/api/calculadorTaxa/taxaJuros
+   http://127.0.0.1:5000/api/calculadorTaxa/showmethecode
