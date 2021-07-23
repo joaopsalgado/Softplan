@@ -10,3 +10,5 @@
    http://127.0.0.1:5000/api/calculadorTaxa/taxaJuros
    
    http://127.0.0.1:5000/api/calculadorTaxa/showmethecode
+   
+   http://127.0.0.1:5000/swagger
